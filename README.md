@@ -64,7 +64,3 @@ The Award class, used to manage the player awards for the season, holds a:
   3. the number of players from each team that are receiving the award.
 
 Additionally, it maintains a leaderboard to track player awards based on their performance throughout the season.
-
-# Acknowledgements
-
-This manager was coded as a Monash University assignment. Provided by the Monash Faculty of IT team were the scripts of generic ADT definitions, decorators, binary search, merge sort and the testcases.
